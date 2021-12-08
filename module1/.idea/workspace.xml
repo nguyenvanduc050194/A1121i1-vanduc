@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2e13cc10-07d5-4865-a77f-792d72e8486f" name="Default Changelist" comment="" />
+    <list default="true" id="2e13cc10-07d5-4865-a77f-792d72e8486f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,10 +46,17 @@
       <workItem from="1638264789601" duration="116000" />
       <workItem from="1638799946990" duration="504000" />
       <workItem from="1638800784513" duration="66000" />
+      <workItem from="1638960102642" duration="8028000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="431" y="155" key="search.everywhere.popup" timestamp="1638960843240">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1638960843240" />
   </component>
 </project>
